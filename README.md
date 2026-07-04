@@ -1,10 +1,11 @@
-## Hi, I'm Payal Daki 👋
+## Hi there, I'm Payal Daki 👋
 
-DevOps Engineer | AWS Certified Solutions Architect – Associate
-
-- Managing end-to-end cloud infrastructure and CI/CD for multiple production applications
-- Tools: Jenkins, GitHub Actions, AWS CodePipeline, Docker, Kubernetes, Terraform, Nginx, PostgreSQL, MySQL
-- Connect: [LinkedIn](https://www.linkedin.com/in/payal-d-58493b21a)
+- 🔧 I'm a **DevOps Engineer** working with **AWS**, **CI/CD**, and **Automation**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🌱 I've leveled up in **Kubernetes** and **Terraform**, alongside **Docker**, **Jenkins**, and **GitHub Actions**
+- 💞️ I'm looking to collaborate on **DevOps projects**, **Cloud solutions**, and **Automation tasks**
+- 📫 How to reach me: https://www.linkedin.com/in/payal-d-58493b21a
+- ⚡ Fun fact: I manage cloud infrastructure and deployments for multiple production apps — solo! 🚀
 
 <!---
 payal-daki/payal-daki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
