@@ -1,15 +1,11 @@
+## Hi there, I'm Payal (Piyu) Daki 👋
 
-
-## Hi there, I’m @payal-daki 👋
-
-- 👀 I’m interested in **DevOps** and **Cloud Technologies**
-- 🌱 I’m currently learning **Kubernetes**, **Docker**, and various **DevOps tools**
-- 💞️ I’m looking to collaborate on **DevOps projects**, **Cloud solutions**, and **Automation tasks**
-- 📫 How to reach me: https://www.linkedin.com/in/payal-d-58493b21a
-- ⚡ Fun fact: I’m a beginner with a passion for making a career in **DevOps** and **Cloud**! 🚀
-
-
-
+- 🔧 DevOps Engineer building and managing end-to-end cloud infrastructure for multiple live production applications
+- ☁️ AWS Certified Solutions Architect – Associate
+- 🚀 Experience with CI/CD (Jenkins, GitHub Actions, AWS CodePipeline), containerization, and infrastructure automation
+- 💼 Managed zero-downtime deployments, database migrations, and monitoring setups (Prometheus + Grafana) across 9+ production products
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/payal-d-58493b21a)
+- ⚡ Always exploring ways to make deployments faster, safer, and more automated
 
 <!---
 payal-daki/payal-daki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
